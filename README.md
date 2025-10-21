@@ -40,17 +40,17 @@ This project is built using HTML, CSS, and JavaScript — three core web technol
 
 🎯 Learning Outcomes
 
-By making this project, students will:
+> By making this project, students will:
 
-  Understand how to create and design a web page using HTML and CSS
-  
-  Learn how to write JavaScript functions to perform calculations
-  
-  Practice how to get user input and display output dynamically
-  
-  Learn how to use APIs to get live data from the internet
-  
-  Build confidence in creating small interactive web applications
+      Understand how to create and design a web page using HTML and CSS
+      
+      Learn how to write JavaScript functions to perform calculations
+      
+      Practice how to get user input and display output dynamically
+      
+      Learn how to use APIs to get live data from the internet
+      
+      Build confidence in creating small interactive web applications
 
 💬 Example
 
