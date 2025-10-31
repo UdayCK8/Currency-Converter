@@ -1,8 +1,24 @@
-# Currency-Converter           Description
+ Currency-Converter           Description
 🧠 Introduction
 
 The Currency Converter is a simple web application that allows users to quickly convert one currency into another — for example, converting US Dollars (USD) to Indian Rupees (INR) or Euros (EUR).
 It helps people know how much their money is worth in a different country’s currency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This project is built using HTML, CSS, and JavaScript — three core web technologies that every student learning web development should know.
 
